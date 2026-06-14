@@ -5,7 +5,7 @@
 
 ## ✨ Quem Sou Eu
 🎓 Estou estudando Design Gráfico. <br>
-💼 Atualmente trabalho como estagiária em Design, desempenhando diversas funções. <br>
+💼 Atualmente trabalho em Design, desempenhando diversas funções. <br>
 🔎 Tenho interesse em desenvolvimento web, design, mobile, animação, 3D, entre outros.
 
 
